@@ -49,4 +49,3 @@ jobs:
         with:
           sarif_file: codescan.sarif          
           
-          
